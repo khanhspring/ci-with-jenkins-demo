@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class CiWithJenkinsDemoApplication {
 
-	pub lic static void main(String[] args) {
+	public static void main(String[] args) {
 		SpringApplication.run(CiWithJenkinsDemoApplication.class, args);
 	}
 }
